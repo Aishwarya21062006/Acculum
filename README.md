@@ -2,7 +2,7 @@
 
 > An AI-assisted personalized learning platform that adapts to each student's pace, progress, and interests while helping facilitators understand when and how to intervene.
 
-## HackMysuru — Problem Statement 1: Personalized Learning
+## Code Spark at AMC College of Engineering — Problem Statement: Personalized Learning
 
 **Challenge:** Design a learning platform that adapts to each student's pace, progress, and interests, while helping facilitators understand when and how to intervene.
 

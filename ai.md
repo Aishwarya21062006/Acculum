@@ -2,7 +2,7 @@
 
 ## 1. Project Overview
 
-Acculum is an AI-assisted personalized learning platform built for **HackMysuru Problem Statement 1 — Personalized Learning**.
+Acculum is an AI-assisted personalized learning platform built for **Code Spark at AMC College of Engineering — Problem Statement: Personalized Learning**.
 
 The project uses AI-related functionality in two areas:
 

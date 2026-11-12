@@ -1,5 +1,5 @@
 
-# Acculum — HackMysuru Resources
+# Acculum — Code Spark at AMC College of Engineering Resources
 
 ## Challenge
 
@@ -20,7 +20,7 @@ Core loop:
 ## Repository
 
 **GitHub:**  
-https://github.com/anishmanjunath82-cpu/Acculum
+https://github.com/Aishwarya21062006/Acculum
 
 ## Product Areas
 
@@ -94,7 +94,7 @@ The facilitator workflow considers:
 
 ## Submission Assets
 
-The final presentation and video walkthrough are maintained separately as HackMysuru submission materials.
+The final presentation and video walkthrough are maintained separately as Code Spark at AMC College of Engineering submission materials.
 
 They are not committed as binary files in this repository.
 
@@ -114,4 +114,4 @@ The project demonstration can cover:
 
 ## Team
 
-Team ID and final submission information should be entered in the HackMysuru submission portal using the team's confirmed details.
+Team ID and final submission information should be entered in the Code Spark submission portal using the team's confirmed details.
