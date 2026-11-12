@@ -1,0 +1,36 @@
+# HackMysuru 1.0 — submission artifacts live on Google Drive, NOT in this repo.
+# Link them in resource.md instead.
+*.mp4
+*.mov
+*.mkv
+*.avi
+*.webm
+*.pptx
+*.key
+submission/
+
+# Common build / dependency folders
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+build/
+.next/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.env.local
+**/client/.env
+!.env.example
+.DS_Store
+*.db
+*.db-shm
+*.db-wal
+uploads/
+**/uploads/
+*.pdf
+
+
